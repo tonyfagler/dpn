@@ -131,7 +131,7 @@ spec:
 # for my own personal on-prem k8s cluster
 #  type: LoadBalancer
 # # for AWS EKS cluster, you can restrict access to your public IP
-  type: LoadBalancer
+  type: ClusterIP
   # loadBalancerSourceRanges:
   # - "80.117.68.35/32"
   # loadBalancerSourceRanges:
