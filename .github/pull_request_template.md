@@ -1,20 +1,16 @@
+### Background 
+<!-- What was happening before this PR, and the problem(s) it solves -->
 
-#### Contribution Type
+### Fixes 
+<!-- Link the issue(s) this PR fixes-->
+### Change Summary
+<!-- Short summary of the changes submitted -->
 
-( Sample App | Dashboard | Monitor | Script | Bugfix | Etc. )
+### Additional Notes
+<!-- Any remaining concerns -->
 
-#### Description
+### Testing Procedure
+<!-- If applicable, write how to test for reviewers-->
 
-(Tell us about what you're adding)
-
-#### Value Add / Motivation
-
-(The thing you're adding is probably great -- tell us why!)
-
-#### Sources
-
-(If applicable. E.g, "The original source code for the sample app I'm adding can be found here: https://github.com/someorg/somerepo" )
-
-#### Testing Strategy
-
-(Tell us about how you tested your proposed changes. Screenshots of results are great additions!)
+### Related PRs or Issues 
+<!-- Dependent PRs, or any relevant linked issues -->
